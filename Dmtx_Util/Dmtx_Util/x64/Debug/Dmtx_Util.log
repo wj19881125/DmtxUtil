@@ -1,0 +1,7 @@
+﻿  Dmtx_Util.cpp
+x:\svn_55\learn\dmtxutil\trunk\dmtx_util\dynamiclibs\includes\opencv2\core\mat.hpp(2585): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+x:\svn_55\learn\dmtxutil\trunk\dmtx_util\dynamiclibs\includes\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+x:\svn_55\learn\dmtxutil\trunk\dmtx_util\dynamiclibs\includes\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+x:\svn_55\learn\dmtxutil\trunk\dmtx_util\dynamiclibs\includes\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+x:\svn_55\learn\dmtxutil\trunk\dmtx_util\dmtx_util\dmtx_util.cpp(28): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Dmtx_Util.vcxproj -> X:\SVN_55\Learn\DmtxUtil\trunk\Dmtx_Util\x64\Debug\Dmtx_Util.exe
